@@ -10,7 +10,7 @@
 
 ## 🌟 Project Overview
 
-The Smart Vehicle Traffic Simulation is an advanced, multi-dimensional simulation system designed to model electric vehicle (EV) movement within a complex, dynamic traffic network. By integrating intelligent pathfinding, real-time traffic signal management, and comprehensive visualization, this project offers a cutting-edge approach to understanding urban mobility and traffic flow.
+The Smart Vehicle Traffic Simulation is an advanced, multi-dimensional simulation system designed to model Electric Vehicle (EV) movement within a complex, dynamic traffic network. By integrating intelligent pathfinding, real-time traffic signal management, and comprehensive visualization, this project offers a cutting-edge approach to understanding urban mobility and traffic flow.
 
 ## ✨ Key Features
 
